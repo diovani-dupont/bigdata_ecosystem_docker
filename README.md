@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/109030838/230728198-1f743d0f-1f09-407e-a1de-235ae7688bd5.png)
+
+
 
 # BIG DATA ECOSYSTEM COM DOCKER
 
